@@ -1,6 +1,5 @@
 import os
 import time
-import uuid
 from typing import Iterator, Iterable
 from collections import Counter
 from functools import wraps
